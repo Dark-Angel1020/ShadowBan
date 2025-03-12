@@ -1,6 +1,6 @@
-# 🌍 IP Address Lookup & Management Tool
+# 🚫 ShadowBan
 
-Welcome to **IP Address Lookup & Management Tool**, a Python-based utility for searching, managing, and editing IP address allocations stored in a MySQL database.
+Welcome to ShadowBan, a Python-based utility for searching, managing, and editing IP address allocations stored in a MySQL database.
 
 ## 📌 Features
 - 🔎 **Search IP**: Find the country of an IP address from the database.
@@ -45,11 +45,21 @@ python Shadow.py
 ```
 
 ## 🛠️ How to Use
+
 You'll be presented with a menu where you can:
+
 1️⃣ Search for an IP
+
 2️⃣ List all IP ranges for a country
+
 3️⃣ Add new IP ranges
-4️⃣ Edit or delete existing IP allocations
+
+4️⃣ Add Single IP address
+
+5️⃣ Edit existing IP allocations 
+
+6️⃣ Delete existing IP allocations
+
 
 Simply enter the corresponding option number and follow the prompts!
 
@@ -72,17 +82,6 @@ IP ranges for United States:
 192.168.0.0 - 192.168.255.255
 172.16.0.0 - 172.31.255.255
 ```
-
-### Blocking an IP
-```
-Enter choice: 5
-Enter IP to block: 203.0.113.45
-
-IP 203.0.113.45 has been successfully blocked.
-```
-
-## 🛡️ Security Note
-⚠️ **DO NOT** expose `db_config` (especially the password) in a public repository! Consider using environment variables instead.
 
 ## 📌 Contributions
 Got an idea or a bug fix? Feel free to fork and submit a pull request! 🚀
