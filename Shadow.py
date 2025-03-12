@@ -6,7 +6,7 @@ import csv
 db_config = {
     "host": "localhost",
     "port": 3306,
-    "user": "root", # your username
+    "user": "root", # username
     "password": "**********", # Put your mysql password 
     "database": "ip_database"
 }
