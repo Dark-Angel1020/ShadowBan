@@ -69,7 +69,7 @@ Simply enter the corresponding option number and follow the prompts!
 Enter choice: 1
 Enter IP to search: 192.168.1.1
 
-IP 192.168.1.1 is from India 🇮🇳
+IP 192.168.1.1 is from India
 From the range of 192.168.1.0 - 192.168.1.255
 ```
 
