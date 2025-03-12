@@ -12,7 +12,7 @@ Welcome to ShadowBan, a Python-based utility for searching, managing, and editin
 
 ## 📂 Repository Structure
 ```
-📁 YourRepoName/
+📁 ShadowBan/
  ├── 📜 Shadow.py           # Main script to interact with the database
  ├── 📜 Data.sql            # MySQL database dump
  ├── 📜 requirements.txt    # Required Python libraries
