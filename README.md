@@ -13,7 +13,7 @@ Welcome to **IP Address Lookup & Management Tool**, a Python-based utility for s
 ## 📂 Repository Structure
 ```
 📁 YourRepoName/
- ├── 📜 main.py             # Main script to interact with the database
+ ├── 📜 Shadow.py           # Main script to interact with the database
  ├── 📜 Data.sql            # MySQL database dump
  ├── 📜 requirements.txt    # Required Python libraries
  ├── 📜 country.csv         # Country code mappings
@@ -41,7 +41,7 @@ Modify `db_config` in `main.py` if necessary to match your MySQL settings.
 
 ### 4️⃣ Run the Script
 ```sh
-python main.py
+python Shadow.py
 ```
 
 ## 🛠️ How to Use
