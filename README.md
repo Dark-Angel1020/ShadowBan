@@ -1,6 +1,6 @@
 # 🚫 ShadowBan
 
-Welcome to ShadowBan, a Python-based utility for searching, managing, and editing IP address allocations stored in a MySQL database.
+Welcome to ShadowBan, a Python-based utility for searching, managing, and editing IP address allocations stored in  MySQL database.
 
 ## 📌 Features
 - 🔎 **Search IP**: Find the country of an IP address from the database.
